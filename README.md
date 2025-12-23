@@ -1,3 +1,6 @@
+## Vehicle Rental System SQL Queries
+
+
 ### Query 1: JOIN
 
 Retrieve booking information along with vehicle name and customer name
